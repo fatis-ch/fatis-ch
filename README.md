@@ -1,7 +1,7 @@
 # Hi, I'm Fatima Saleem 👋
 
 **AI Engineer** | LLMs • RAG • NLP • AI Agents
-📍 Lahore, Pakistan
+
 
 I build LLM-powered applications, from fine-tuning models to shipping them as working systems. I'm looking for an entry-level AI/ML Engineer role and I'm open to collaborating on AI projects.
 
