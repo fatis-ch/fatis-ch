@@ -1,10 +1,10 @@
-. Hi, I'm Fatima Saleem 👋
+##Hi, I'm Fatima Saleem 👋
 
 AI Engineer | LLMs • RAG • NLP • AI Agents
 
 I build LLM-powered applications, from fine-tuning models to shipping them as working systems. I'm looking for an entry-level AI/ML Engineer role and I'm open to collaborating on AI projects.
 
-.🚀 Featured Projects
+##🚀 Featured Projects
 
 - 🧠 **MindEase: AI Mental Health Companion** (Final Year Project): Gemma 2B fine-tuned on CBT datasets, RAG with ChromaDB, intent classification, toxicity detection, and facial emotion recognition. *Python, FastAPI, Flutter, Firebase
 - 🍔 [Food-Panda-AI-Agent](https://github.com/fatis-ch/Food-Panda-AI-Agent): an AI support agent that cancels orders, changes addresses, and tracks orders, with every action validated by business rules in code. *LangChain, LangGraph, Gemini, ChromaDB, Streamlit
